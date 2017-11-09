@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">example1-Xamarin</string>
+  <string name="button1">Alert</string>
+  <string name="button2">Toggle</string>
+  <string name="button3">Show</string>
+  <string name="button4">Close</string>
 </resources>
